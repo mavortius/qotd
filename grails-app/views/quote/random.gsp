@@ -3,7 +3,6 @@
 <head>
     <title>Random Quote</title>
 </head>
-
 <body>
 <div id="quote">
     <q>${content}</q>

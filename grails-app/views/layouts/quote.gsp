@@ -1,9 +1,9 @@
 <html>
 <head>
-    <title>QOTD $raquo; <g:layoutTitle /></title>
+    <title>QOTD &raquo; <g:layoutTitle /></title>
     <g:external dir="css" file="snazzy.css" />
     <g:layoutHead />
-    <g:layoutResources />
+    <r:layoutResources />
 </head>
 <body>
     <div id="header">
