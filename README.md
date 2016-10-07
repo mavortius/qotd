@@ -1,0 +1,2 @@
+# qotd
+Sample grails application
