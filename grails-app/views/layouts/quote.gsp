@@ -10,5 +10,6 @@
         <g:img dir="images" file="logo.png" alt="logo" />
     </div>
     <g:layoutBody />
+    <asset:javascript src="application.js"/>
 </body>
 </html>
