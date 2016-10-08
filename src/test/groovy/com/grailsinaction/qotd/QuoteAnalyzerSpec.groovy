@@ -36,14 +36,14 @@ class QuoteAnalyzerSpec extends Specification {
     @Unroll
     def "Number of the quotes per author"() {
         given: "An analyzer initialized with known quotes"
-        def analyzer = new QuoteAnalyzer(inputQuotes)
+        def analyzer = new QuoteAnalyzer(quoteList)
 
         expect: "The per-author quote count is correct"
         expected == analyzer.quoteCountPerAuthor
 
         where:
         quoteList       |       expected
-            []          |           []
+            []          |           [:]
         quotes          |       ["Peter Ledbrook": 1, "Glen Smith": 1]
     }
 
