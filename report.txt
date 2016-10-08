@@ -1,0 +1,12 @@
+Quote report
+------------
+Total: 6
+
+Number of quotes per author:
+
+ Larry Wall          1
+ Chuck Norris Facts  1
+ Eric Raymond        1
+ Raul Seixas         1
+ Peter Ledbrook      1
+ Glen Smith          1
