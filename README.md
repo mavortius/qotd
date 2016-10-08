@@ -1,2 +1,2 @@
 # qotd
-Sample grails application
+Sample grails application from Grails in Action Book.
